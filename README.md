@@ -4,7 +4,7 @@ This is the List of Websites that has VDP or Responsible Disclosure Programs alo
 |**S. No**|**Domain**|**VDP or Responsible Disclosure**|**Hall of Fame**|**Report a Bug**|
 |:---:|:---:|:---:|:---:|:---:|
 |1|[Postmark](https://postmarkapp.com/)|[Link](https://postmarkapp.com/support/article/779-responsible-disclosure-policy)|[Link](https://postmarkapp.com/support/article/779-responsible-disclosure-policy)|[Link](https://www.activecampaign.com/security/report-an-issue)
-|2|[MSD](https://msd.govt.nz/)|[Link](https://www.msd.govt.nz/about-msd-and-our-work/tools/responsible-disclosure-guidelines.html)|[Link](https://www.msd.govt.nz/about-msd-and-our-work/tools/responsible-disclosure-guidelines.html)|[Link](https://www.msd.govt.nz/about-msd-and-our-work/tools/responsible-disclosure-guidelines.html)
+|2|[MSD](https://msd.govt.nz/)|[Link](https://www.msd.govt.nz/about-msd-and-our-work/tools/responsible-disclosure-guidelines.html)|[Link](https://www.msd.govt.nz/about-msd-and-our-work/tools/responsible-disclosure-guidelines.html)|[Link](https://msd.govt.nz/.well-known/security.txt)
 |3|[]()|[Link]()|[Link]()|[Link]()
 |4|[]()|[Link]()|[Link]()|[Link]()
 |5|[]()|[Link]()|[Link]()|[Link]()
